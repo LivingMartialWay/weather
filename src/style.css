@@ -6,14 +6,21 @@ td, th {
 .header__logo {
   float: left;
   height: 8rem;
+  margin-top: 1rem;
   padding-left: 3rem;
 }
   
 .input-group {
-  margin: 20px 0px;
+  margin: 4rem 0px;
   float: right;
-  width: 87%;
+  width: 40%;
+  position: relative;
+  margin-right: 45%;
 }
+
+.table {
+  margin-top: 2rem;
+  
 
 svg {
   height: 150px;
