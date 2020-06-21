@@ -5,6 +5,8 @@ td, th {
 
 .input-group {
   margin: 20px 0px;
+  float: right;
+  width: 90%;
 }
 
 svg {
