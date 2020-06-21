@@ -3,10 +3,14 @@ td, th {
   text-align: center !important;
 }
 
+.header__logo {
+  float: left;
+  width: 15%;
+
 .input-group {
   margin: 20px 0px;
   float: right;
-  width: 90%;
+  width: 85%;
 }
 
 svg {
